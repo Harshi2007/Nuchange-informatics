@@ -1,4 +1,4 @@
-Used a OOPS model of Programming.
+## Used a OOPS model of Programming.
 <li> Defined a class with the local variables - int key, String url, int count
 <li> Each time a new URL is to be stored in the database(with local variables) then the constructor of the class is intialized 
 <li> So each object acts as a primary key for each url being stored.
